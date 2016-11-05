@@ -1,4 +1,4 @@
 node_modules/
 *.log
 *.js.map
-angular-tour-of-heroes/app/*.js
+app/*.js
